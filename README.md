@@ -22,7 +22,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,c++,python" />
+  <h2>🛠️ Languages and Tools</h2>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mongodb,mysql,c++" /> <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,figma" />
 </p>
 
