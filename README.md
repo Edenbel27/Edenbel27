@@ -8,9 +8,9 @@
 
 <br>
 <p>
-  🔭 I’m currently taking my intership at A2SV/Eskalet
+  🔭 I have acquired DSA, Go lang and MongoDB knowledge in my internship at A2SV/Eskalet
 
-🌱 I’m currently learning GO lang for Backend Development
+🌱 I’m currently learning Flutter for Mobile Application Development
 
 👯 I’m looking to collaborate on Anyone with eager to Learn and Teach
 
