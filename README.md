@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Eden+Belayneh!;" />
-    <h2>A Passionate Backend Developer From Ethiopia</h2>
+    <h2>A Passionate Developer From Ethiopia</h2>
 </h1>
 <img src="https://github.com/Edenbel27/Edenbel27/blob/main/github_profile.webp" alt="Banner of a developer sitting in front of a desk" width="400" height="600" text-align: center>
 </div>
