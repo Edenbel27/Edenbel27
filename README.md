@@ -8,9 +8,9 @@
 
 <br>
 <p>
-  🔭 I have acquired DSA, Go lang and MongoDB knowledge in my internship at A2SV/Eskalet
-
-🌱 I’m currently learning Flutter for Mobile Application Development
+  🔭 I have acquired DSA, Go lang, Flutter and MongoDB knowledge in my journey with A2SV
+  
+🌱 I am doing my internship in Octovate Technologies as a Mobile application developer
 
 👯 I’m looking to collaborate on Anyone with eager to Learn and Teach
 
