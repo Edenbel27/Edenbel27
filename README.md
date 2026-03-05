@@ -32,7 +32,7 @@
 
 <p align="center">
   <h2>🛠️ Languages and Tools</h2>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,mongodb,mysql,c++,flutter" /> <br>
+  <img src="https://skillicons.dev/icons?i=flutter,java,python,spring,mongodb,mysql,c++" /> <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,figma" />
 </p>
 <div align="center">
