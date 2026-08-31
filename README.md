@@ -8,7 +8,9 @@
 
 <br>
 <p>
-🌱 I am doing my internship in Octovate Technologies as a Mobile application developer
+🌱 I am doing my internship in iCogLabs as AGI engineer
+
+✨ I have developed different mobile applications with flutter and supabase. I have been a part of an application called T's verify which is deployed on play store currently and now I am working on an amazing and big application project which is to be launched soon.
   
 🔭 I have acquired DSA, Go lang, Flutter and MongoDB knowledge in my journey with A2SV
 
